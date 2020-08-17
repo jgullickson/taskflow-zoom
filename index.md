@@ -1,3 +1,9 @@
-## TaskFlow Zoom Privacy
+## TaskFlow Zoom
 
-Please contact us for further information.
+### Topics
+
+- [Privacy](https://jgullickson.github.io/taskflow-zoom/privacy)
+- [Terms](https://jgullickson.github.io/taskflow-zoom/terms)
+- [Support](https://jgullickson.github.io/taskflow-zoom/support)
+
+2020 TaskFlow Zoom
