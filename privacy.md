@@ -1,3 +1,3 @@
 ## Privacy
 
-Privacy policy for Taskflow Zoom Plugin V2
+Privacy policy for Taskflow Zoom Plugin v2
